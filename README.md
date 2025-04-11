@@ -1,5 +1,8 @@
 # Live Cricket Dashboard
 Live Cricket Dashboard built in Power BI, featuring real-time match updates, player stats, and interactive analytics.
+## Tools Used:
+- Microsoft Power BI
+- Open the file using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 ## Purpose:
 The Live Cricket Dashboard is designed to provide real-time updates on cricket matches, as well as historical match data. By leveraging data fetched from Cricbuzz via RapidAPI, the dashboard displays live scores, player statistics, team performances, and match events for both ongoing and completed matches. The data is imported into Power BI through Power Query Editor, using advanced queries to ensure accurate display of all live and post-match records.
 
